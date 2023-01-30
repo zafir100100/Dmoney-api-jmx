@@ -2,7 +2,7 @@
 
 ## How to run this project
 - clone the project
-- From Jmeter, Select File > Open > Select ``` Random-User-API-Performance-Test-Plan.jmx ``` file from project's root directory
+- From Jmeter, Select File > Open > Select ``` DMoneyUser.jmx ``` file from project's root directory
 - Press the green "Start" button in Jmeter
 
 ## Technology used:
