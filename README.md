@@ -9,8 +9,5 @@
 - Jmeter
 
 ## Test Report:
-  - Link (https://github.com/zafir100100/Random-User-API-Performance-Test-Load-and-Stress-using-Jmeter/blob/master/resources/performance-testing-result/performance-testing-result.xlsx)
 
-## Load testing report:
-
-![180](https://github.com/zafir100100/Random-User-API-Performance-Test-Load-and-Stress-using-Jmeter/blob/master/resources/performance-testing-result/screenshots/load-testing/load-testing.PNG)
+![180](https://github.com/zafir100100/Dmoney-Api-Testing-using-Jmeter/blob/master/resources/screenshots/jmeter-report.PNG)
