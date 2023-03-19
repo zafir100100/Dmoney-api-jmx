@@ -1,13 +1,29 @@
-# Dmoney-Api-Testing-using-Jmeter
 
-## How to run this project
-- clone the project
-- From Jmeter, Select File > Open > Select ``` DMoneyUser.jmx ``` file from project's root directory
-- Press the green "Start" button in Jmeter
+# Dmoney-api-jmx
 
 ## Technology used:
-- Jmeter
+- Apache Jmeter
+- Visual Studio Code
 
-## Test Report:
+## Server Used: 
+- URL: https://dmoney.roadtocareer.net/
 
-![180](https://github.com/zafir100100/Dmoney-Api-Testing-using-Jmeter/blob/master/resources/screenshots/jmeter-report.PNG)
+## Working Scenerio:
+**My Working Scenerios are:**
+
+1. Login to user
+2. Create a new agent
+3. Give balance to the newly created agent from system
+4. Create a customer
+5. Search the newly created user by phone number
+6. Deposit balance to the customer from the agent
+7. Withdraw some money from the agent
+8. Delete the user
+
+**I have also done the assertions for all the responses.**
+
+## CLI Report:
+
+![Screenshot (10)](https://user-images.githubusercontent.com/123433625/215781579-fa919b26-b26a-4b8f-8789-622037487c32.png)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/123433625/215781665-97660886-99a0-4400-bde8-211a4df60538.png)
